@@ -1,3 +1,37 @@
-body {
+.bodycentered {
+    border-width: 10px;
+    font-family: arial;
+    font-size: small;
+    margin-top: 16px;
+    font-weight: 600;
+}
 
+.linkA {
+    cursor: pointer;
+}
+
+.header-top{
+    border-top: 5px;
+    background-color: green;
+    padding-top: 20px;
+    padding-left: 80%;
+    color: white;
+    padding-bottom: 20px;
+    border-style: line;
+    border-color: bisque;
+    border-width: 5pxs;
+}
+
+.firstbody {
+text-align: center;
+}
+
+.secbody{
+background-color: bisque;
+text-align: center;
+padding-top: 10px;
+font-size:larger;
+}
+
+.secBbody{
 }
